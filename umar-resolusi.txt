@@ -1,6 +1,6 @@
 Umar Resolusi 
 - konsisten belajar coding setiap hari 2 kali
 - konsisten murojaah minimal 3 juz perhari 
-- dapat membuat web sederhana 
 - bisa berbagai bahasa pemograman 
 - membuat beberapa web dari bahasa-bahasa yang berdeda
+- membuat gem sederhana 
