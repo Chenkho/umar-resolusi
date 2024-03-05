@@ -1,0 +1,5 @@
+Rencana Aplikasi 
+
+- gem
+- aplikasi alqur'an
+- aplikasi kamus
